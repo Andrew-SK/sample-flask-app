@@ -1,5 +1,5 @@
 fileignoreconfig:
 - filename: .github/workflows/secrets_test.yml
-  checksum: 8ff6bca89580f94fbc9e9586d4522ef88e98dee70a9be50f21a7e37f2c4e4c65
+  checksum: 22570c1cf31a01fcd27e91eca88e2e4b20c0540beab00e37d04f04df0d8a47db
 - filename: web/echo/config.py
   checksum: a7e263284a6360fe416ed3d8edbadc1fec208ee547067ba20ff35e6e4ea83e5e
